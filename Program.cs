@@ -14,6 +14,7 @@ namespace HIMP
         {
             Console.WriteLine("Welcome to the Home Inventory Management Program!\nRemember to save your changes before exiting the program:\nusing option number 6 Otherwise, your progress will be lost.");
             Console.WriteLine("~Kuczu");
+            Console.WriteLine("~Kamil");
             Thread.Sleep(4000);
 
 
